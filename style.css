@@ -1,0 +1,311 @@
+*{
+    max-width: 1440px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 151px;
+    height: 101px;
+    margin-top: 18px;
+    margin-left: 62px;
+    margin-bottom: 19px;  
+}
+
+
+.navigation a{
+    color: #957554;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+
+.navigation{
+    margin: top 20px;
+    margin-left: 500px;
+    display: flex;
+    gap: 40px;
+}
+
+.main{
+    background-image: url(back.png);
+    width: 1440px;
+    height: 790px;
+}
+
+.main-title{
+    color: #FFFFFF;
+    padding-top: 242px;
+    padding-left: 257px;
+    padding-right: 173px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.main-paragraph{
+    color: #FFFFFF;
+    padding-top: 48.07px;
+    padding-left: 483.95px;
+    padding-bottom: 53.83px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.button1 a{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+
+.button1{
+    padding-top: 40px;
+    padding-left: 520.75px;
+}
+
+
+.button1 button{
+    background-color: #DFAA5B;
+    width: 371px;
+    height: 76px;
+    border-radius: 10px;
+}
+
+ 
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    padding-top: 80px;
+    padding-left: 565px;
+    color: #957554;
+}
+
+.Rooms-Rates{
+    display: flex;
+
+}
+
+.standart-twin-room{
+    background-image: url(st.tw.png);
+    width: 630px;
+    height: 500px;
+    margin-top: 47px;
+    margin-left: 60px;
+}
+
+
+.standart-twin-room h1{
+    padding-top: 302px;
+    padding-left: 126px;
+    padding-bottom: 19px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+
+.standart-twin-room p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.standart-twin-room button{
+    background-color: #DFAA5B;
+    width: 244px;
+    height: 76px;
+    margin-left: 190px;
+    border-radius: 10px;
+}
+
+.Standart-Room{
+    background-image: url(standart.png);
+    width: 630px;
+    height: 500px;
+    margin-top: 47px;
+    margin-left: 60px;
+}
+
+.Standart-Room h1{
+    padding-top: 302px;
+    padding-left: 171px;
+    padding-bottom: 19px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+
+.Standart-Room p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+
+.Standart-Room button{
+    background-color: #DFAA5B;
+    width: 244px;
+    height: 76px;
+    margin-left: 190px;
+    border-radius: 10px;
+}
+
+
+.delux-view{
+    display: flex;
+}
+
+
+.Standard-View-Room{
+    background-image: url(st.view.png);
+    width: 630px;
+    height: 500px;
+    margin-top: 47px;
+    margin-left: 60px;
+}
+
+.Standard-View-Room h1{
+    padding-top: 302px;
+    padding-left: 171px;
+    padding-bottom: 34px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+
+.Standard-View-Room p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+
+.Standard-View-Room button{
+    background-color: #DFAA5B;
+    width: 244px;
+    height: 76px;
+    margin-left: 190px;
+    border-radius: 10px;
+}
+
+
+.Deluxe-Room{
+    background-image: url(deluxe\ room.png);
+    width: 630px;
+    height: 500px;
+    margin-top: 47px;
+    margin-left: 60px;
+}
+
+.Deluxe-Room h1{
+    padding-top: 302px;
+    padding-left: 171px;
+    padding-bottom: 34px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.Deluxe-Room p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.Deluxe-Room button{
+    background-color: #DFAA5B;
+    width: 244px;
+    height: 76px;
+    margin-left: 190px;
+    border-radius: 10px;
+}
+
+
+h3{
+    color: #957554;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+    padding-top: 55px;
+    padding-left: 511px;
+}
+
+.book-now button{
+    background-color: #DFAA5B;
+    width: 244px;
+    height: 76px;
+    border-radius: 10px;
+    margin-left: 511px;
+    margin-top: 38px;
+    width: 418px;
+    height: 76px;
+}
+
+.book-now a{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500px;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.footer{
+    display: flex;
+    background-color: #111111;
+    margin-top: 122px;
+    width: 1440px;
+    height: 459px;
+}
+
+.footer-logo{
+    padding-top: 51px;
+    padding-left: 55px;
+}
+
+.footer-info a{
+    color: #FFF;
+    font-family: "Ubuntu" , sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    margin-top: 51px;
+    padding-left: 345px;
+}
+
+.footer-contact {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    padding-top: 51px;
+    width: 263px;
+    height: 83px;
+    margin-left: 306px;
+}
+
+.footer-contact a{
+    color: #FFF;
+}
